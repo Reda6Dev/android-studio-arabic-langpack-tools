@@ -1,0 +1,23 @@
+NOTICE
+
+1. Original UI Strings Ownership
+   The original English UI resource strings from which the Arabic translations
+   referenced by this project were translated are the property of their respective
+   copyright holders, including JetBrains s.r.o. (IntelliJ IDEA Community Edition
+   and JetBrains plugins), Google LLC (Android Studio components), The Android
+   Open Source Project (AOSP), and any applicable third-party plugin authors.
+
+2. Derived Translations & Unverified Legal Status
+   Any Arabic `.properties` translation files built from or packaged for Android
+   Studio are derived linguistic translations mapped to original resource bundle
+   keys (`docs/license_inventory.csv`). Even for components shipping with open-source
+   licenses (such as IntelliJ IDEA Community Platform and Kotlin under Apache
+   License 2.0), the legal licensing status of publishing and redistributing derived
+   UI translations has NOT been formally reviewed or legally verified.
+
+3. Trademarks & Independence
+   "Android Studio" and "Gemini" are trademarks of Google LLC.
+   "IntelliJ" and "IntelliJ IDEA" are trademarks of JetBrains s.r.o.
+   This repository is an independent, unofficial community localization toolset
+   and is not affiliated with, sponsored by, or endorsed by Google LLC or
+   JetBrains s.r.o.

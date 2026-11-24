@@ -1,0 +1,20 @@
+<idea-plugin>
+  <id>com.reda6dev.arabic.languagepack</id>
+  <name>Arabic Language Pack (Community)</name>
+  <version>0.6</version>
+  <vendor url="https://github.com/Reda6Dev">Reda6Dev</vendor>
+  <description><![CDATA[
+<p><b>Unofficial Community Beta:</b> Arabic localization pack for Android Studio 2026.1.1 (build 261.*).</p>
+<p>Translations were created with AI assistance and reviewed via sampling. Please report any translation issues on GitHub.</p>
+<p><i>Disclaimer: Independent community project, not affiliated with or endorsed by Google LLC or JetBrains s.r.o. Android Studio, IntelliJ, and Gemini are trademarks of their respective owners.</i></p>
+<hr/>
+<p dir="rtl"><b>إضافة مجتمعية غير رسمية (تجريبية Beta):</b> حزمة تعريب لواجهة Android Studio 2026.1.1 (بناء 261.*).</p>
+<p dir="rtl">أُعدّت الترجمات بمساعدة الذكاء الاصطناعي ومُورِجعت بالعينات فقط. يمكنك الإبلاغ عن أي ترجمة غير دقيقة عبر GitHub.</p>
+<p dir="rtl"><i>إخلاء مسؤولية: مشروع مجتمعي مستقل غير تابع لشركتي Google أو JetBrains ولا مدعوم منهما. جميع العلامات التجارية ملك لأصحابها.</i></p>
+  ]]></description>
+  <idea-version since-build="261.0" until-build="261.*"/>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <languageBundle locale="ar"/>
+  </extensions>
+</idea-plugin>

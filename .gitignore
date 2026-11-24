@@ -1,0 +1,23 @@
+# Build artifacts & compiled bytecode
+build/
+out/
+dist/
+classes/
+*.class
+*.jar
+*.zip
+
+# Extracted IDE sources & translation working directories
+extracted/
+batches/
+work/
+zip-root*/
+jar-root*/
+*.tsv
+!docs/*.tsv
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
